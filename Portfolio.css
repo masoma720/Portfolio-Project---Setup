@@ -1,0 +1,13 @@
+
+        .hero-section {
+            background-color: #f8f9fa;
+            padding: 60px 0;
+            text-align: center;
+        }
+        .profile-img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+    
